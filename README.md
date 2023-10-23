@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://oriochain.netlify.app" target='_blank'>
-    <img src="/assets/images/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://Blockassure.web.app" target='_blank'>
+    
   </a>
 
   <h3 align="center">BlockChain Based Documents Verfication System With-IPFS</h3>
@@ -49,7 +49,7 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Documents-Verfication-System-With-IPFS-main``
+``https://github.com/Kartik-Chavan/Block_Chain_Document_Verification_System.git``
 
 
 2. Install the required packages:
