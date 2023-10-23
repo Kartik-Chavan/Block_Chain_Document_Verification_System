@@ -1,6 +1,6 @@
 window.CONTRACT = {
-  address: '0x5A116c7a355D8b508aA3D4480Ae78E47efcdEc4D',
-  network: 'https://polygon-rpc.com/',
+  address: '0x493AFAd981a830356383d2F507a81372963583c4',
+  network: 'http://localhost:7545',
   explore: 'https://polygonscan.com/',
   abi: [
     {
